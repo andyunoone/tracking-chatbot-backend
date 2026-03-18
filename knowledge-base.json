@@ -6,7 +6,11 @@
     "regione": "Sardegna",
     "abitanti": "circa 6.000",
     "superficie": "51 km²",
-    "come_arrivare": "Traghetto da Portovesme (Delcomar o Saremar), durata circa 30-40 minuti"
+    "altitudine_max": "211 m (Guardia dei Mori)",
+    "costa": "Circa 30 km di costa frastagliata con falesie, calette e spiagge",
+    "come_arrivare": "Traghetto da Portovesme (Delcomar), durata circa 30-40 minuti. Portovesme è raggiungibile in auto dalla SS126 o dall'aeroporto di Cagliari (circa 80 km, 1 ora).",
+    "storia": "Fondata nel 1738 da una colonia di pescatori liguri provenienti dall'isola tunisina di Tabarka. I coloni portarono con sé la lingua tabarchina, le tradizioni marinare e la pesca del tonno rosso. Il nome Carloforte è in onore del re Carlo Emanuele III di Savoia.",
+    "clima": "Mediterraneo con estati calde e secche (luglio-agosto 28-32°C) e inverni miti (10-15°C). Il maestrale soffia frequentemente, specialmente nella costa ovest."
   },
   "trasporti": {
     "traghetti": [
@@ -14,87 +18,198 @@
         "compagnia": "Delcomar",
         "tratta": "Portovesme - Carloforte",
         "durata": "30-40 minuti",
-        "frequenza": "Partenze ogni 1-2 ore, più frequenti in estate",
-        "info": "Prenotazione consigliata in alta stagione"
+        "frequenza": "Partenze ogni 1-2 ore, più frequenti in estate (ogni 30-45 minuti nei mesi di luglio e agosto)",
+        "info": "Prenotazione obbligatoria per veicoli in alta stagione. Biglietti acquistabili online su delcomar.it o alla biglietteria del porto.",
+        "costo_indicativo": "Passeggero circa 6-8€, auto circa 20-30€ a/r"
+      },
+      {
+        "compagnia": "Delcomar",
+        "tratta": "Calasetta - Carloforte",
+        "durata": "20-25 minuti",
+        "frequenza": "Meno frequente rispetto a Portovesme, utile per chi arriva dall'Isola di Sant'Antioco",
+        "info": "Collegamento alternativo passando per l'Isola di Sant'Antioco"
       }
     ],
-    "bus": "Servizio bus locale ARST per collegamento tra le località dell'isola",
-    "taxi": "Servizio taxi disponibile a Carloforte",
-    "noleggio": "Noleggio auto, scooter e biciclette disponibile in paese"
+    "bus": "Servizio bus locale ARST con linee che collegano Carloforte alle principali località dell'isola (La Caletta, Bobba, Capo Sandalo). Frequenza ridotta fuori stagione.",
+    "taxi": "Servizio taxi disponibile a Carloforte, utile per raggiungere spiagge e punti di trekking non serviti dal bus",
+    "noleggio": "Noleggio auto, scooter, biciclette e e-bike disponibile in paese. Lo scooter è ideale per muoversi nell'isola. Le biciclette elettriche sono ottime per i percorsi collinari.",
+    "parcheggi": "I parcheggi nelle zone turistiche sono ad offerta libera e non tutti custoditi. In estate i parcheggi vicino alle spiagge si riempiono presto, arrivare al mattino."
   },
   "ristoranti": [
     {
       "nome": "Da Nicolo",
       "tipo": "Ristorante di pesce",
-      "specialita": "Tonno di Carloforte, couscous tabarchino",
-      "zona": "Centro storico"
+      "specialita": "Tonno di Carloforte, couscous tabarchino (cascà), pasta con bottarga",
+      "zona": "Centro storico",
+      "prezzo": "€€€",
+      "nota": "Uno dei ristoranti più rinomati, prenotazione consigliata"
     },
     {
       "nome": "Al Tonno di Corsa",
       "tipo": "Ristorante tipico",
-      "specialita": "Tonno rosso, cucina carlofortina",
-      "zona": "Lungomare"
+      "specialita": "Tonno rosso in tutte le sue parti (ventresca, musciame, lattume), cucina carlofortina",
+      "zona": "Lungomare",
+      "prezzo": "€€€",
+      "nota": "Specializzato nel tonno, esperienza gastronomica unica"
     },
     {
       "nome": "Da Andrea",
       "tipo": "Trattoria",
-      "specialita": "Cucina locale, pesce fresco",
-      "zona": "Centro"
+      "specialita": "Cucina locale, pesce fresco del giorno, fregola con arselle",
+      "zona": "Centro",
+      "prezzo": "€€",
+      "nota": "Ambiente familiare, ottimo rapporto qualità-prezzo"
+    },
+    {
+      "nome": "Osteria della Tonnara",
+      "tipo": "Ristorante",
+      "specialita": "Piatti a base di tonno, antipasti di mare, dolci sardi",
+      "zona": "Zona tonnara",
+      "prezzo": "€€€",
+      "nota": "Location suggestiva vicino all'antica tonnara"
+    },
+    {
+      "nome": "Da Vittorio",
+      "tipo": "Pizzeria / Ristorante",
+      "specialita": "Pizza, piatti di pesce, cucina sarda",
+      "zona": "Centro",
+      "prezzo": "€€",
+      "nota": "Ideale per famiglie, ampia scelta"
+    }
+  ],
+  "piatti_tipici": [
+    {
+      "nome": "Cascà",
+      "descrizione": "Il couscous tabarchino, piatto simbolo di Carloforte. A base di semola con verdure di stagione (cavoli, ceci, carote), cotto al vapore nella cuscussiera. Di origine nordafricana, portato dai coloni tabarchini."
+    },
+    {
+      "nome": "Tonno di Carloforte",
+      "descrizione": "Il tonno rosso (Thunnus thynnus) pescato con la tradizionale mattanza. Si usa ogni parte: ventresca (la pancia, la parte più pregiata), musciame (filetto essiccato), bottarga (uova salate e pressate), lattume, buzzonaglia e cuore."
+    },
+    {
+      "nome": "Focaccia di Carloforte (Focaccia fugassa)",
+      "descrizione": "Focaccia genovese in stile ligure, morbida e alta, condita con olio d'oliva. Si trova nelle panetterie del centro."
+    },
+    {
+      "nome": "Fainè",
+      "descrizione": "La farinata di ceci in versione carlofortina, cotta nel forno a legna. Croccante fuori e morbida dentro."
+    },
+    {
+      "nome": "Pasta con bottarga",
+      "descrizione": "Spaghetti o linguine conditi con bottarga di tonno grattugiata, olio extravergine e aglio."
+    },
+    {
+      "nome": "Capunadda",
+      "descrizione": "Piatto freddo estivo a base di gallette del marinaio bagnate, pomodori, tonno, olive, capperi e basilico. Versione carlofortina della capponata ligure."
     }
   ],
   "alloggi": [
     {
       "tipo": "Hotel",
-      "esempi": "Hotel Hieracon, Hotel Riviera",
-      "nota": "Prenotare con anticipo per luglio-agosto"
+      "esempi": [
+        {"nome": "Hotel Hieracon", "stelle": 4, "zona": "Lungomare", "nota": "Vista mare, centro storico, ristorante"},
+        {"nome": "Hotel Riviera", "stelle": 3, "zona": "Lungomare", "nota": "Fronte mare, posizione centrale"},
+        {"nome": "Hotel Nichotel", "stelle": 3, "zona": "Centro", "nota": "Moderno, vicino al porto"}
+      ],
+      "nota": "Prenotare con largo anticipo per luglio-agosto, i posti si esauriscono velocemente"
     },
     {
       "tipo": "B&B",
-      "esempi": "Numerosi B&B nel centro storico e nelle zone panoramiche",
-      "nota": "Soluzione più economica e caratteristica"
+      "esempi": [
+        {"nome": "Numerosi B&B nel centro storico e nelle zone panoramiche"},
+        {"nota": "Consultare Booking.com o Airbnb per disponibilità e recensioni"}
+      ],
+      "nota": "Soluzione più economica e caratteristica, spesso con colazione a base di prodotti locali"
     },
     {
-      "tipo": "Case vacanza",
-      "esempi": "Disponibili su portali di prenotazione online",
-      "nota": "Ideali per famiglie e soggiorni lunghi"
+      "tipo": "Case vacanza e appartamenti",
+      "nota": "Ideali per famiglie e soggiorni lunghi. Disponibili su Airbnb, Booking.com e agenzie locali. Permettono di cucinare e vivere come i locali."
+    },
+    {
+      "tipo": "Campeggio",
+      "nota": "Possibilità di campeggio in aree autorizzate. Informarsi presso il comune per le zone consentite."
     }
   ],
   "spiagge": [
     {
       "nome": "La Caletta",
-      "tipo": "Sabbia",
-      "servizi": "Attrezzata, bar, passerelle accessibili",
-      "nota": "Adatta a famiglie"
+      "tipo": "Sabbia fine",
+      "servizi": "Attrezzata con lettini e ombrelloni, bar, ristorante, passerelle accessibili, sedie job per disabili",
+      "nota": "La spiaggia più attrezzata dell'isola, ideale per famiglie con bambini. Acqua bassa e calma.",
+      "raggiungibilita": "In auto o bus, parcheggio disponibile",
+      "costa": "Sud-est"
     },
     {
       "nome": "Girin",
       "tipo": "Sabbia e ciottoli",
-      "servizi": "Passerelle, vicina al centro",
-      "nota": "Facilmente raggiungibile a piedi"
+      "servizi": "Passerelle per accesso al mare",
+      "nota": "La spiaggia più vicina al centro di Carloforte, raggiungibile facilmente a piedi in 10 minuti. Acqua limpida.",
+      "raggiungibilita": "A piedi dal centro",
+      "costa": "Est"
     },
     {
       "nome": "Punta Nera",
       "tipo": "Scogliera e ciottoli",
       "servizi": "Passerelle",
-      "nota": "Acqua cristallina"
+      "nota": "Acqua cristallina e profonda, ideale per snorkeling. Fondo roccioso.",
+      "raggiungibilita": "In auto, breve camminata dal parcheggio",
+      "costa": "Sud"
     },
     {
-      "nome": "Bobba",
-      "tipo": "Ciottoli",
-      "servizi": "Bar, parcheggio, passerelle",
-      "nota": "Molto popolare in estate"
+      "nome": "Bobba (La Bobba)",
+      "tipo": "Ciottoli e sassi levigati",
+      "servizi": "Bar, parcheggio, passerelle di accesso",
+      "nota": "Una delle spiagge più famose e frequentate. Mare cristallino con sfumature turchesi. Sassi bianchi caratteristici. Molto popolare in estate, arrivare presto.",
+      "raggiungibilita": "In auto o bus, parcheggio nelle vicinanze",
+      "costa": "Sud-ovest"
     },
     {
       "nome": "Spalmatore",
-      "tipo": "Sabbia",
-      "servizi": "Parcheggio nelle vicinanze",
-      "nota": "Una delle più belle dell'isola"
+      "tipo": "Sabbia dorata",
+      "servizi": "Parcheggio nelle vicinanze, zona picnic",
+      "nota": "Considerata una delle più belle dell'isola. Baia riparata dal vento con acqua turchese e fondale sabbioso. Ideale per lo snorkeling.",
+      "raggiungibilita": "In auto, strada asfaltata",
+      "costa": "Nord"
     },
     {
       "nome": "Cala Fico",
-      "tipo": "Scogliera",
+      "tipo": "Scogliera e piccola caletta",
       "servizi": "Nessun servizio, natura selvaggia",
-      "nota": "Raggiungibile a piedi, panorama mozzafiato"
+      "nota": "Fiordo naturale con pareti rocciose alte e acqua verde smeraldo. Panorama mozzafiato. Raggiungibile solo a piedi con un sentiero di circa 20 minuti. Portare acqua e cibo.",
+      "raggiungibilita": "Solo a piedi, sentiero sterrato",
+      "costa": "Ovest"
+    },
+    {
+      "nome": "Cala Vinagra",
+      "tipo": "Caletta rocciosa",
+      "servizi": "Nessun servizio",
+      "nota": "Caletta nascosta raggiungibile a piedi. Acqua cristallina, pochi visitatori. Perfetta per chi cerca tranquillità.",
+      "raggiungibilita": "A piedi da strada sterrata",
+      "costa": "Ovest"
+    },
+    {
+      "nome": "Guidi",
+      "tipo": "Sabbia e rocce",
+      "servizi": "Nessun servizio",
+      "nota": "Spiaggia meno conosciuta e quindi tranquilla. Bel panorama.",
+      "raggiungibilita": "In auto e breve camminata",
+      "costa": "Nord"
+    },
+    {
+      "nome": "Le Colonne",
+      "tipo": "Scogliera con accesso al mare",
+      "servizi": "Nessun servizio",
+      "nota": "Famosa per i due faraglioni (le colonne) che emergono dal mare. Luogo iconico dell'isola, ideale per foto e snorkeling. Accesso via sentiero.",
+      "raggiungibilita": "A piedi, sentiero dal parcheggio (20-30 minuti)",
+      "costa": "Sud-ovest"
+    },
+    {
+      "nome": "Conca",
+      "tipo": "Scogliera",
+      "servizi": "Nessun servizio",
+      "nota": "Zona rocciosa con piscine naturali. Ideale per snorkeling e immersioni.",
+      "raggiungibilita": "In auto e breve camminata",
+      "costa": "Sud"
     }
   ],
   "percorsi_trekking": [
@@ -102,44 +217,134 @@
       "nome": "Capo Sandalo",
       "difficolta": "Media",
       "durata": "2 ore",
-      "nota": "Faro e scogliere spettacolari"
+      "lunghezza": "circa 5 km",
+      "nota": "Il punto più occidentale della Sardegna. Faro panoramico con vista spettacolare sulle scogliere a strapiombo. Al tramonto è magico. Sentiero ben segnalato.",
+      "cosa_vedere": "Faro di Capo Sandalo, scogliere, nidificazione del Falco della Regina"
     },
     {
       "nome": "Le Colonne",
       "difficolta": "Facile",
       "durata": "1.5 ore",
-      "nota": "Formazioni rocciose iconiche"
+      "lunghezza": "circa 3 km",
+      "nota": "Percorso che porta ai celebri faraglioni. Sentiero facile adatto anche a famiglie. Possibilità di fare il bagno all'arrivo.",
+      "cosa_vedere": "I due faraglioni (Le Colonne), macchia mediterranea, costa rocciosa"
     },
     {
-      "nome": "Punta delle Oche",
+      "nome": "Punta delle Oche - Cala Fico",
       "difficolta": "Media",
       "durata": "2.5 ore",
-      "nota": "Costa occidentale selvaggia"
+      "lunghezza": "circa 6 km",
+      "nota": "Percorso lungo la costa occidentale selvaggia. Panorami sulla scogliera e arrivo al fiordo di Cala Fico. Portare acqua.",
+      "cosa_vedere": "Falesie, Cala Fico, flora e fauna della macchia mediterranea"
+    },
+    {
+      "nome": "Becco di Nasca",
+      "difficolta": "Difficile",
+      "durata": "3 ore",
+      "lunghezza": "circa 7 km",
+      "nota": "Il percorso più impegnativo dell'isola. Scogliere alte con panorami mozzafiato. Non adatto a chi soffre di vertigini. Scarpe da trekking obbligatorie.",
+      "cosa_vedere": "Scogliere a strapiombo, panorami sulla costa ovest, Falco della Regina"
+    },
+    {
+      "nome": "Giro dell'isola (costa nord)",
+      "difficolta": "Facile",
+      "durata": "1.5 ore",
+      "lunghezza": "circa 4 km",
+      "nota": "Percorso costiero nella parte nord dell'isola. Terreno pianeggiante, adatto a tutti.",
+      "cosa_vedere": "Saline, zona di Spalmatore, panorama sul mare"
     }
   ],
+  "geositi": [
+    {
+      "nome": "Le Colonne",
+      "tipo": "Faraglioni vulcanici",
+      "descrizione": "Due pilastri di roccia vulcanica che emergono dal mare, simbolo dell'isola. Formati dall'erosione marina su rocce vulcaniche terziarie."
+    },
+    {
+      "nome": "Grotte di Punta delle Oche",
+      "tipo": "Grotte marine",
+      "descrizione": "Cavità scavate dall'erosione marina nelle falesie della costa occidentale."
+    },
+    {
+      "nome": "Cala Fico",
+      "tipo": "Fiordo naturale",
+      "descrizione": "Insenatura stretta e profonda simile a un fiordo, scavata nelle rocce vulcaniche. Uno dei paesaggi più spettacolari dell'isola."
+    },
+    {
+      "nome": "Capo Sandalo",
+      "tipo": "Promontorio vulcanico",
+      "descrizione": "Scogliere basaltiche a strapiombo sul mare. Punto più occidentale della Sardegna."
+    }
+  ],
+  "natura": {
+    "flora": "Macchia mediterranea con lentisco, mirto, rosmarino, cisto, ginepro, euforbia. Presenza di palme nane e fichi d'India.",
+    "fauna": [
+      {
+        "nome": "Falco della Regina (Falco eleonorae)",
+        "descrizione": "L'isola ospita la più grande colonia europea. Nidifica sulle scogliere della costa ovest da maggio a ottobre. Migratore, sverna in Madagascar."
+      },
+      {
+        "nome": "Gabbiano corso",
+        "descrizione": "Specie protetta che nidifica lungo le coste dell'isola."
+      },
+      {
+        "nome": "Berta maggiore e minore",
+        "descrizione": "Uccelli marini che nidificano nelle grotte costiere."
+      }
+    ],
+    "mare": "Fondali ricchi di posidonia oceanica, habitat per numerose specie di pesci. Possibilità di avvistare delfini al largo."
+  },
   "eventi": [
     {
       "nome": "Girotonno",
       "periodo": "Fine maggio - inizio giugno",
-      "descrizione": "Festival internazionale del tonno rosso, con gare di cucina, concerti e degustazioni"
+      "descrizione": "Festival internazionale del tonno rosso di Carloforte. Gare di cucina tra chef internazionali, degustazioni di tonno in tutte le sue preparazioni, concerti, spettacoli e mercatini. L'evento più importante dell'isola, attira migliaia di visitatori."
     },
     {
       "nome": "Festa di San Pietro",
       "periodo": "29 giugno",
-      "descrizione": "Festa patronale con processione a mare e fuochi d'artificio"
+      "descrizione": "Festa patronale con processione religiosa a mare, la statua di San Pietro viene portata in barca nel porto. Fuochi d'artificio la sera. Molto sentita dalla comunità."
+    },
+    {
+      "nome": "Estate Carlofortina",
+      "periodo": "Luglio - Agosto",
+      "descrizione": "Rassegna estiva con concerti, spettacoli teatrali, sagre gastronomiche e intrattenimento serale nel centro storico e sul lungomare."
+    },
+    {
+      "nome": "Sagra del couscous (Cascà)",
+      "periodo": "Aprile",
+      "descrizione": "Celebrazione del piatto tipico tabarchino con degustazioni e eventi culturali."
     }
   ],
   "info_utili": {
-    "farmacia": "Farmacia nel centro di Carloforte",
-    "guardia_medica": "Servizio di guardia medica attivo",
-    "carabinieri": "Stazione dei Carabinieri in centro",
+    "farmacia": "Farmacia nel centro storico di Carloforte, in via XX Settembre",
+    "guardia_medica": "Servizio di guardia medica attivo, telefono disponibile presso il Comune",
+    "carabinieri": "Stazione dei Carabinieri in centro a Carloforte. Per emergenze: 112",
+    "vigili_del_fuoco": "Per emergenze: 115",
+    "emergenze_mare": "Guardia Costiera: 1530",
     "ufficio_postale": "Poste Italiane nel centro storico",
-    "bancomat": "Sportelli ATM disponibili in paese",
-    "supermercati": "Diversi minimarket e supermercati nel centro"
+    "bancomat": "Sportelli ATM disponibili in paese (Banco di Sardegna, Poste Italiane)",
+    "supermercati": "Diversi minimarket e supermercati nel centro di Carloforte. Il più grande è nella zona portuale.",
+    "edicole": "Edicole nel centro per giornali, mappe dell'isola e guide",
+    "pro_loco": "Ufficio turistico Pro Loco di Carloforte sul lungomare, per informazioni, mappe e suggerimenti",
+    "porto": "Porto turistico con posti barca per diportisti",
+    "immersioni": "Centri diving disponibili per immersioni guidate e snorkeling organizzato",
+    "escursioni_barca": "Giro dell'isola in barca con soste per il bagno, partenze dal porto di Carloforte. Durata circa 4-5 ore."
   },
   "curiosita": {
-    "lingua": "A Carloforte si parla il tabarchino, un dialetto ligure portato dai coloni di Pegli nel 1738",
-    "tonno": "Carloforte è famosa per la mattanza del tonno rosso, tradizione secolare",
-    "falchi": "L'isola ospita la più grande colonia europea di Falco della Regina (Falco eleonorae)"
+    "lingua": "A Carloforte si parla il tabarchino (u tabarchin), un dialetto ligure portato dai coloni di Pegli nel 1738. È ancora parlato quotidianamente, soprattutto dagli anziani. È una delle poche varianti del ligure parlate fuori dalla Liguria.",
+    "tonno": "Carloforte è famosa per la tonnara e la mattanza del tonno rosso, tradizione secolare che risale al XVIII secolo. La tonnara di Carloforte è una delle ultime ancora attive nel Mediterraneo. Il tonno di Carloforte ha ottenuto il presidio Slow Food.",
+    "falchi": "L'isola ospita la più grande colonia europea di Falco della Regina (Falco eleonorae), con circa 100 coppie nidificanti sulle scogliere occidentali.",
+    "tabarka": "Il nome 'tabarchino' deriva dall'isola di Tabarka, al largo della Tunisia, dove i genovesi di Pegli si stabilirono nel XVI secolo per la pesca del corallo. Nel 1738, circa 400 coloni si trasferirono nell'Isola di San Pietro fondando Carloforte.",
+    "architettura": "Il centro storico di Carloforte ha un'architettura tipicamente ligure con case colorate, vicoli stretti (caruggi) e la piazza principale affacciata sul porto. Ricorda molto i borghi della riviera ligure.",
+    "saline": "Le antiche saline nella parte nord dell'isola sono un'area naturalistica importante, habitat per fenicotteri rosa e altre specie di uccelli migratori."
+  },
+  "consigli_pratici": {
+    "periodo_migliore": "Da maggio a ottobre. Giugno e settembre sono ideali: bel tempo, meno folla e prezzi più bassi rispetto a luglio-agosto.",
+    "cosa_portare": "Scarpe da trekking per i sentieri, crema solare, cappello, acqua (pochi punti di ristoro fuori dal centro). Maschera e boccaglio per lo snorkeling.",
+    "durata_soggiorno": "Consigliati almeno 3-4 giorni per visitare le principali attrazioni. Una settimana per esplorare con calma.",
+    "acqua": "L'acqua del rubinetto è potabile ma molti preferiscono quella in bottiglia.",
+    "contanti": "Portare contanti, non tutti gli esercizi accettano carte (soprattutto bar sulla spiaggia e piccoli negozi).",
+    "vento": "Il maestrale può soffiare forte sulla costa ovest. Nei giorni di maestrale, preferire le spiagge sulla costa est (Girin, La Caletta) che sono più riparate."
   }
 }
