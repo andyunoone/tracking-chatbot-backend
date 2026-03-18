@@ -1,0 +1,16 @@
+{
+  "name": "tracking-chatbot-backend",
+  "version": "1.0.0",
+  "description": "Backend chatbot turistico per Isola di San Pietro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

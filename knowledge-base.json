@@ -1,0 +1,145 @@
+{
+  "isola": {
+    "nome": "Isola di San Pietro",
+    "comune": "Carloforte",
+    "provincia": "Sud Sardegna",
+    "regione": "Sardegna",
+    "abitanti": "circa 6.000",
+    "superficie": "51 km²",
+    "come_arrivare": "Traghetto da Portovesme (Delcomar o Saremar), durata circa 30-40 minuti"
+  },
+  "trasporti": {
+    "traghetti": [
+      {
+        "compagnia": "Delcomar",
+        "tratta": "Portovesme - Carloforte",
+        "durata": "30-40 minuti",
+        "frequenza": "Partenze ogni 1-2 ore, più frequenti in estate",
+        "info": "Prenotazione consigliata in alta stagione"
+      }
+    ],
+    "bus": "Servizio bus locale ARST per collegamento tra le località dell'isola",
+    "taxi": "Servizio taxi disponibile a Carloforte",
+    "noleggio": "Noleggio auto, scooter e biciclette disponibile in paese"
+  },
+  "ristoranti": [
+    {
+      "nome": "Da Nicolo",
+      "tipo": "Ristorante di pesce",
+      "specialita": "Tonno di Carloforte, couscous tabarchino",
+      "zona": "Centro storico"
+    },
+    {
+      "nome": "Al Tonno di Corsa",
+      "tipo": "Ristorante tipico",
+      "specialita": "Tonno rosso, cucina carlofortina",
+      "zona": "Lungomare"
+    },
+    {
+      "nome": "Da Andrea",
+      "tipo": "Trattoria",
+      "specialita": "Cucina locale, pesce fresco",
+      "zona": "Centro"
+    }
+  ],
+  "alloggi": [
+    {
+      "tipo": "Hotel",
+      "esempi": "Hotel Hieracon, Hotel Riviera",
+      "nota": "Prenotare con anticipo per luglio-agosto"
+    },
+    {
+      "tipo": "B&B",
+      "esempi": "Numerosi B&B nel centro storico e nelle zone panoramiche",
+      "nota": "Soluzione più economica e caratteristica"
+    },
+    {
+      "tipo": "Case vacanza",
+      "esempi": "Disponibili su portali di prenotazione online",
+      "nota": "Ideali per famiglie e soggiorni lunghi"
+    }
+  ],
+  "spiagge": [
+    {
+      "nome": "La Caletta",
+      "tipo": "Sabbia",
+      "servizi": "Attrezzata, bar, passerelle accessibili",
+      "nota": "Adatta a famiglie"
+    },
+    {
+      "nome": "Girin",
+      "tipo": "Sabbia e ciottoli",
+      "servizi": "Passerelle, vicina al centro",
+      "nota": "Facilmente raggiungibile a piedi"
+    },
+    {
+      "nome": "Punta Nera",
+      "tipo": "Scogliera e ciottoli",
+      "servizi": "Passerelle",
+      "nota": "Acqua cristallina"
+    },
+    {
+      "nome": "Bobba",
+      "tipo": "Ciottoli",
+      "servizi": "Bar, parcheggio, passerelle",
+      "nota": "Molto popolare in estate"
+    },
+    {
+      "nome": "Spalmatore",
+      "tipo": "Sabbia",
+      "servizi": "Parcheggio nelle vicinanze",
+      "nota": "Una delle più belle dell'isola"
+    },
+    {
+      "nome": "Cala Fico",
+      "tipo": "Scogliera",
+      "servizi": "Nessun servizio, natura selvaggia",
+      "nota": "Raggiungibile a piedi, panorama mozzafiato"
+    }
+  ],
+  "percorsi_trekking": [
+    {
+      "nome": "Capo Sandalo",
+      "difficolta": "Media",
+      "durata": "2 ore",
+      "nota": "Faro e scogliere spettacolari"
+    },
+    {
+      "nome": "Le Colonne",
+      "difficolta": "Facile",
+      "durata": "1.5 ore",
+      "nota": "Formazioni rocciose iconiche"
+    },
+    {
+      "nome": "Punta delle Oche",
+      "difficolta": "Media",
+      "durata": "2.5 ore",
+      "nota": "Costa occidentale selvaggia"
+    }
+  ],
+  "eventi": [
+    {
+      "nome": "Girotonno",
+      "periodo": "Fine maggio - inizio giugno",
+      "descrizione": "Festival internazionale del tonno rosso, con gare di cucina, concerti e degustazioni"
+    },
+    {
+      "nome": "Festa di San Pietro",
+      "periodo": "29 giugno",
+      "descrizione": "Festa patronale con processione a mare e fuochi d'artificio"
+    }
+  ],
+  "info_utili": {
+    "farmacia": "Farmacia nel centro di Carloforte",
+    "guardia_medica": "Servizio di guardia medica attivo",
+    "carabinieri": "Stazione dei Carabinieri in centro",
+    "ufficio_postale": "Poste Italiane nel centro storico",
+    "bancomat": "Sportelli ATM disponibili in paese",
+    "supermercati": "Diversi minimarket e supermercati nel centro"
+  },
+  "curiosita": {
+    "lingua": "A Carloforte si parla il tabarchino, un dialetto ligure portato dai coloni di Pegli nel 1738",
+    "tonno": "Carloforte è famosa per la mattanza del tonno rosso, tradizione secolare",
+    "falchi": "L'isola ospita la più grande colonia europea di Falco della Regina (Falco eleonorae)"
+  }
+}
