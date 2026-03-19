@@ -62,7 +62,7 @@ exports.chat = onRequest(
         }
 
         try {
-            const { message, language } = req.body;
+            const { message, language, history } = req.body;
 
             if (!message) {
                 return res.status(400).json({ error: "Message is required" });
@@ -76,7 +76,23 @@ exports.chat = onRequest(
                 systemInstruction: systemPrompt
             });
 
-            const result = await model.generateContent(message);
+            // Costruisci la cronologia per il contesto della conversazione
+            // Gemini richiede che la cronologia inizi con un messaggio "user"
+            const chatHistory = [];
+            if (history && Array.isArray(history)) {
+                let foundFirstUser = false;
+                for (const msg of history) {
+                    if (!foundFirstUser && !msg.isUser) continue; // Salta messaggi bot prima del primo messaggio utente
+                    foundFirstUser = true;
+                    chatHistory.push({
+                        role: msg.isUser ? "user" : "model",
+                        parts: [{ text: msg.text }]
+                    });
+                }
+            }
+
+            const chat = model.startChat({ history: chatHistory });
+            const result = await chat.sendMessage(message);
             const response = result.response.text();
 
             res.json({ response });
