@@ -12,6 +12,48 @@
     "storia": "Fondata nel 1738 da una colonia di pescatori liguri provenienti dall'isola tunisina di Tabarka. I coloni portarono con sé la lingua tabarchina, le tradizioni marinare e la pesca del tonno rosso. Il nome Carloforte è in onore del re Carlo Emanuele III di Savoia.",
     "clima": "Mediterraneo con estati calde e secche (luglio-agosto 28-32°C) e inverni miti (10-15°C). Il maestrale soffia frequentemente, specialmente nella costa ovest."
   },
+  "storia_dettagliata": {
+    "origini_pegli": "La storia dei tabarchini inizia a Pegli, borgo marinaro alle porte di Genova (oggi quartiere della città). I pegliesi erano abili pescatori e navigatori, specializzati nella pesca del corallo rosso nel Mediterraneo.",
+    "tabarka_corallo": "Nel 1542, la famiglia genovese dei Lomellini ottenne dall'imperatore Carlo V la concessione dell'isola di Tabarka (Tabarca), al largo della costa tunisina vicino a Biserta. I Lomellini vi stabilirono una colonia di corallari genovesi, prevalentemente da Pegli. Per quasi due secoli, i tabarchini vissero sull'isolotto, pescando corallo rosso e commerciando con le popolazioni nordafricane.",
+    "declino_tabarka": "Nel corso del XVII secolo, la pesca del corallo declinò a causa dello sfruttamento eccessivo dei banchi. Le condizioni di vita a Tabarka divennero sempre più difficili, con conflitti con i Bey di Tunisi e attacchi dei pirati. I tabarchini cercarono una nuova patria.",
+    "fondazione_1738": "Nel 1738, circa 400 tabarchini guidati da Agostino Tagliafico ottennero dal re Carlo Emanuele III di Savoia il permesso di insediarsi nell'Isola di San Pietro, allora disabitata. Fondarono Carloforte il 17 aprile 1738 (data ancora celebrata), in onore del re. Portarono con sé la lingua tabarchina, le tradizioni culinarie (cascà, fainè, focaccia), la pesca del tonno e un forte senso comunitario.",
+    "attacco_francese_1793": "Il 23 ottobre 1793, durante la guerra tra la Francia rivoluzionaria e il Regno di Sardegna, una flotta francese attaccò e bombardò Carloforte. I francesi occuparono brevemente il paese, saccheggiandolo. L'evento spinse i Savoia a costruire il Forte Santa Teresa e a rafforzare le difese dell'isola.",
+    "razzia_tunisina_1798": "Il 2 settembre 1798, una flotta di corsari tunisini guidata da Hammuda Pascià attaccò Carloforte. La maggior parte della popolazione (circa 930 persone) fu catturata e deportata a Tunisi come schiavi. Fu il trauma più grande nella storia della comunità. I prigionieri furono tenuti in condizioni durissime per cinque anni.",
+    "liberazione_1803": "Grazie alla mediazione diplomatica del re Carlo Emanuele IV e al pagamento di un ingente riscatto, i carlofortini furono liberati nel 1803 e poterono tornare sull'isola. La Madonna dello Schiavo, la cui statua secondo la tradizione fu trovata da un prigioniero a Tunisi, divenne il simbolo della liberazione e della devozione popolare. La festa del 15 novembre commemora il ritorno dalla prigionia.",
+    "sviluppo_successivo": "Nell'Ottocento, Carloforte crebbe grazie alla pesca del tonno (con l'istituzione della tonnara), alla produzione del sale nelle saline e al commercio marittimo. Il paese sviluppò la sua architettura caratteristica di impronta ligure. Nel Novecento, con il declino della pesca del tonno e delle saline, il turismo divenne gradualmente la risorsa economica principale."
+  },
+  "siti_storici": [
+    {
+      "nome": "Chiesa di San Carlo Borromeo",
+      "tipo": "Chiesa parrocchiale",
+      "descrizione": "Chiesa principale di Carloforte, situata nella piazza centrale. Costruita nel XVIII secolo in stile barocco sardo-piemontese, dedicata a San Carlo Borromeo. Facciata in pietra chiara con campanile a torre. All'interno custodisce opere d'arte sacra e la statua di San Pietro portata in processione a mare il 29 giugno."
+    },
+    {
+      "nome": "Chiesa della Madonna dello Schiavo (Chiesa della Novena)",
+      "tipo": "Chiesa / Santuario",
+      "descrizione": "Santuario dedicato alla Madonna dello Schiavo, legato alla memoria della prigionia tunisina dei carlofortini (1798-1803). La statua della Madonna sarebbe stata ritrovata da un carlofortino durante la schiavitù a Tunisi. La chiesa è meta di devozione popolare e ospita la novena nella prima metà di novembre, con processione il 15 novembre. Conserva ex voto marinari e testimonianze della cattività."
+    },
+    {
+      "nome": "Forte Santa Teresa",
+      "tipo": "Fortificazione militare",
+      "descrizione": "Fortezza settecentesca situata su un'altura che domina il porto di Carloforte. Costruita dai Savoia per difendere l'isola dalle incursioni barbaresche dopo l'attacco francese del 1793. Pianta quadrangolare con bastioni e garitte. Oggi parzialmente restaurato, ospita eventi culturali e mostre estive. Vista panoramica eccezionale sul porto e sulla costa del Sulcis."
+    },
+    {
+      "nome": "Museo Civico di Carloforte",
+      "tipo": "Museo civico",
+      "descrizione": "Museo dedicato alla storia della comunità tabarchina. Raccoglie documenti, fotografie d'epoca, attrezzi della pesca del tonno e della lavorazione del corallo, costumi tradizionali e testimonianze della vita quotidiana carlofortina dal 1738 ad oggi. Una sezione è dedicata alla tonnara e alla mattanza. Situato nel centro storico."
+    },
+    {
+      "nome": "Ex Tonnara Su Pranu",
+      "tipo": "Sito industriale storico",
+      "descrizione": "Complesso storico della tonnara, una delle ultime tonnare fisse ancora presenti nel Mediterraneo. Risalente al XVIII secolo, comprende gli edifici per la lavorazione del tonno, le case dei tonnarotti e i magazzini. Oggi parzialmente restaurato e visitabile in alcune aree. Testimonianza fondamentale della tradizione della mattanza del tonno rosso."
+    },
+    {
+      "nome": "Mura e Bastioni di Carloforte",
+      "tipo": "Fortificazioni urbane",
+      "descrizione": "Il centro storico di Carloforte era protetto da mura perimetrali e bastioni costruiti dopo la fondazione del 1738 per difendersi dalle incursioni dei pirati barbareschi. Parte delle mura sono ancora visibili, integrate nelle costruzioni successive. Passeggiando per i vicoli si possono notare tratti delle antiche mura in pietra."
+    }
+  ],
   "trasporti": {
     "traghetti": [
       {
@@ -75,6 +117,62 @@
       "zona": "Centro",
       "prezzo": "€€",
       "nota": "Ideale per famiglie, ampia scelta"
+    },
+    {
+      "nome": "Trattoria Punta e Corallo",
+      "tipo": "Trattoria di pesce",
+      "specialita": "Pesce fresco alla griglia, frittura mista, spaghetti ai ricci di mare",
+      "zona": "Centro storico",
+      "prezzo": "€€",
+      "nota": "Ambiente rustico e accogliente, gestione familiare da oltre 30 anni"
+    },
+    {
+      "nome": "Da Sandro",
+      "tipo": "Ristorante / Trattoria",
+      "specialita": "Zuppa di pesce, fregola con arselle, cascà, dolci della tradizione tabarchina",
+      "zona": "Via XX Settembre",
+      "prezzo": "€€",
+      "nota": "Cucina casalinga carlofortina, porzioni abbondanti"
+    },
+    {
+      "nome": "Trattoria Il Pescatore",
+      "tipo": "Trattoria",
+      "specialita": "Frittura di calamari, polpo alla carlofortina, insalata di mare, pasta con le sarde",
+      "zona": "Lungomare",
+      "prezzo": "€€",
+      "nota": "Posizione sul mare, terrazza con vista. Buon rapporto qualità-prezzo."
+    },
+    {
+      "nome": "Pizzeria Da Mario",
+      "tipo": "Pizzeria",
+      "specialita": "Pizza al taglio e tonda, focaccia fugassa, fainè di ceci",
+      "zona": "Centro, vicino al porto",
+      "prezzo": "€",
+      "nota": "Ideale per un pasto veloce e informale, anche da asporto"
+    },
+    {
+      "nome": "Bar Gelateria La Piazzetta",
+      "tipo": "Bar / Gelateria",
+      "specialita": "Gelato artigianale ai gusti locali (mirto, fico d'India, limone sardo), granite, caffè",
+      "zona": "Piazza Carlo Emanuele III",
+      "prezzo": "€",
+      "nota": "Punto di ritrovo in piazza, perfetto per una pausa pomeridiana. Tavolini all'aperto con vista sul porto."
+    },
+    {
+      "nome": "Bar del Porto",
+      "tipo": "Bar / Caffetteria",
+      "specialita": "Colazione con cornetti freschi, aperitivi, panini con tonno e bottarga",
+      "zona": "Lungomare, fronte porto",
+      "prezzo": "€",
+      "nota": "Il bar più frequentato dai locali, apre presto la mattina. Ideale per la colazione con vista sulle barche."
+    },
+    {
+      "nome": "Gelateria Ferraro",
+      "tipo": "Gelateria artigianale",
+      "specialita": "Gelato artigianale, gusti classici e creativi, semifreddi",
+      "zona": "Centro storico",
+      "prezzo": "€",
+      "nota": "Gelato prodotto con ingredienti locali e di stagione. Molto frequentata la sera."
     }
   ],
   "piatti_tipici": [
@@ -101,6 +199,34 @@
     {
       "nome": "Capunadda",
       "descrizione": "Piatto freddo estivo a base di gallette del marinaio bagnate, pomodori, tonno, olive, capperi e basilico. Versione carlofortina della capponata ligure."
+    },
+    {
+      "nome": "Pilau (Cashcà de risu)",
+      "descrizione": "Piatto di riso speziato di origine nordafricana-tabarchina, simile al pilaf. Preparato con riso cotto in brodo aromatizzato con zafferano, cannella e chiodi di garofano, condito con carne di maiale o salsiccia. Piatto invernale e delle feste, servito durante la festa della Madonna dello Schiavo."
+    },
+    {
+      "nome": "Biscotti del marinaio (Gallette)",
+      "descrizione": "Biscotti secchi e duri, originariamente preparati per i lunghi viaggi in mare perché si conservavano a lungo. Fatti con farina, olio e poco zucchero. Vengono bagnati nell'acqua o nel vino prima di essere mangiati. Usati anche come base per la capunadda."
+    },
+    {
+      "nome": "Giuggiu (Giuggiulena)",
+      "descrizione": "Dolce tradizionale a base di pasta di mandorle, tipico delle feste e delle ricorrenze. Di chiara derivazione genovese con influenze nordafricane. Si presenta in varie forme e dimensioni, morbido e profumato."
+    },
+    {
+      "nome": "Focaccette (Fugassette)",
+      "descrizione": "Piccole focaccine fritte o al forno, farcite con formaggio fresco, cipolle o verdure di stagione. Merenda tipica e cibo da strada carlofortino. Si trovano nelle panetterie e nei chioschi."
+    },
+    {
+      "nome": "Polpo alla carlofortina",
+      "descrizione": "Polpo cotto lentamente in umido con pomodorini, olive, capperi, aglio e prezzemolo. Servito come secondo piatto o antipasto caldo. Il polpo viene prima battuto e poi stufato fino a diventare tenerissimo."
+    },
+    {
+      "nome": "Fregola con arselle",
+      "descrizione": "Pasta sarda a grani irregolari (simile al cous cous ma tostata) cotta con arselle (vongole), pomodoro, aglio e prezzemolo. Piatto che fonde la tradizione sarda con quella tabarchina."
+    },
+    {
+      "nome": "Musciame con fave",
+      "descrizione": "Antipasto primaverile con fettine sottili di musciame di tonno accompagnate da fave fresche crude, olio extravergine e limone."
     }
   ],
   "alloggi": [
@@ -281,7 +407,7 @@
     "fauna": [
       {
         "nome": "Falco della Regina (Falco eleonorae)",
-        "descrizione": "L'isola ospita la più grande colonia europea. Nidifica sulle scogliere della costa ovest da maggio a ottobre. Migratore, sverna in Madagascar."
+        "descrizione": "L'isola ospita la più grande colonia europea con circa 100 coppie nidificanti. Nidifica sulle scogliere della costa ovest da maggio a ottobre. Migratore, sverna in Madagascar."
       },
       {
         "nome": "Gabbiano corso",
@@ -290,10 +416,242 @@
       {
         "nome": "Berta maggiore e minore",
         "descrizione": "Uccelli marini che nidificano nelle grotte costiere."
+      },
+      {
+        "nome": "Fenicotteri rosa",
+        "descrizione": "Presenti nelle Saline nella parte nord dell'isola, soprattutto in autunno e inverno. Insieme ad aironi e cavalieri d'Italia."
+      },
+      {
+        "nome": "Marangone dal ciuffo",
+        "descrizione": "Cormorano mediterraneo che nidifica sulle scogliere dell'isola."
       }
     ],
     "mare": "Fondali ricchi di posidonia oceanica, habitat per numerose specie di pesci. Possibilità di avvistare delfini al largo."
   },
+  "attivita_esperienze": [
+    {
+      "nome": "Giro dell'isola in barca",
+      "descrizione": "Escursione in barca che circumnaviga l'Isola di San Pietro con soste per il bagno in calette inaccessibili da terra. Si passa davanti a Capo Sandalo, Cala Fico, Le Colonne, Punta delle Oche e le grotte marine della costa ovest. Guide locali raccontano storia e curiosità. Possibilità di avvistare delfini e falchi della regina.",
+      "durata": "4-5 ore (mezza giornata) o 7-8 ore (giornata intera)",
+      "prezzo_indicativo": "€40-60 a persona per mezza giornata, €60-90 per giornata intera con pranzo a bordo",
+      "periodo": "Da aprile a ottobre, partenze dal porto di Carloforte"
+    },
+    {
+      "nome": "Escursione in kayak",
+      "descrizione": "Tour guidato in kayak lungo la costa, per esplorare grotte marine, calette nascoste e la costa frastagliata a pelo d'acqua. Percorsi diversi a seconda del livello: dalla facile costa est alla più impegnativa costa ovest. Non serve esperienza pregressa.",
+      "durata": "2-3 ore (tour breve) o 5-6 ore (giornata)",
+      "prezzo_indicativo": "€30-50 a persona per il tour breve, kayak e attrezzatura inclusi",
+      "periodo": "Da maggio a settembre"
+    },
+    {
+      "nome": "Immersioni subacquee (diving)",
+      "descrizione": "I centri diving dell'isola offrono immersioni guidate per tutti i livelli. Punti di immersione principali: la Secca di Cala Fico (ricca di gorgonie e cernie), le pareti di Capo Sandalo, le grotte sommerse di Punta delle Oche. Fondali vulcanici con grande biodiversità: murene, polpi, barracuda mediterranei, nudibranchi.",
+      "durata": "2-3 ore per singola immersione",
+      "prezzo_indicativo": "€50-70 per immersione singola con attrezzatura, €35-50 battesimo del mare",
+      "periodo": "Da maggio a ottobre, visibilità migliore in giugno e settembre"
+    },
+    {
+      "nome": "Snorkeling guidato",
+      "descrizione": "Escursioni di snorkeling guidato nei punti migliori dell'isola: Cala Fico, Le Colonne, Punta Nera, Conca. Le guide illustrano la fauna e flora marina. Attrezzatura fornita.",
+      "durata": "2-3 ore",
+      "prezzo_indicativo": "€20-35 a persona, attrezzatura inclusa",
+      "periodo": "Da maggio a ottobre"
+    },
+    {
+      "nome": "Pescaturismo",
+      "descrizione": "Uscita in barca con pescatori locali per vivere l'esperienza della pesca tradizionale. Si assiste alla pesca con le reti e si può gustare il pesce appena pescato cucinato a bordo. Un modo autentico per conoscere la cultura marinara carlofortina.",
+      "durata": "4-6 ore (partenza al mattino presto o nel tardo pomeriggio)",
+      "prezzo_indicativo": "€50-80 a persona, pranzo/cena di pesce incluso",
+      "periodo": "Da aprile a ottobre, dipende dal meteo e dal mare"
+    },
+    {
+      "nome": "Birdwatching",
+      "descrizione": "L'isola è un paradiso per il birdwatching. Punti principali: le Saline (fenicotteri rosa, aironi, cavalieri d'Italia, da agosto a marzo), la costa ovest (Falco della Regina, da maggio a ottobre), le scogliere (gabbiano corso, berta maggiore e minore, marangone dal ciuffo). Guide naturalistiche locali disponibili su prenotazione.",
+      "durata": "2-4 ore per escursione guidata",
+      "prezzo_indicativo": "€25-40 a persona per escursione guidata",
+      "periodo": "Tutto l'anno, Saline più ricche in autunno-inverno, falchi da maggio a ottobre"
+    },
+    {
+      "nome": "Tour in e-bike",
+      "descrizione": "Noleggio di biciclette elettriche per esplorare l'isola in autonomia o con guida. Percorsi adatti a tutti grazie all'assistenza elettrica sulle salite. Itinerari consigliati: giro della costa nord (Spalmatore, Saline), costa sud (Bobba, Le Colonne), entroterra con vigneti.",
+      "durata": "Mezza giornata o giornata intera",
+      "prezzo_indicativo": "€25-40 al giorno per noleggio e-bike",
+      "periodo": "Da marzo a novembre"
+    }
+  ],
+  "vita_serale": [
+    {
+      "nome": "Lungomare di Carloforte",
+      "tipo": "Passeggiata / Aperitivo",
+      "descrizione": "La passeggiata serale sul lungomare è un rito per turisti e locali. Diversi bar con tavolini all'aperto offrono aperitivi con vista sul porto e sul tramonto. L'atmosfera è rilassata e conviviale."
+    },
+    {
+      "nome": "Bar del Corso",
+      "tipo": "Bar / Aperitivo",
+      "descrizione": "Bar con terrazza sul lungomare, specializzato in cocktail e aperitivi con stuzzichini. Ottimo Spritz e Ichnusa alla spina. Punto di ritrovo serale, musica dal vivo in estate."
+    },
+    {
+      "nome": "Piazza Carlo Emanuele III",
+      "tipo": "Piazza / Vita serale",
+      "descrizione": "La piazza principale si anima la sera con famiglie, bambini che giocano, e gruppi seduti ai tavolini dei bar circostanti. In estate vengono organizzati concerti e spettacoli all'aperto."
+    },
+    {
+      "nome": "Enoteca / Wine bar",
+      "tipo": "Enoteca",
+      "descrizione": "Locali nel centro dove degustare vini sardi (Carignano del Sulcis, Vermentino, Cannonau) accompagnati da taglieri di salumi e formaggi locali. Ambiente tranquillo e curato."
+    }
+  ],
+  "shopping_souvenir": {
+    "prodotti_tipici": [
+      {
+        "nome": "Bottarga di tonno",
+        "descrizione": "Uova di tonno rosso salate, pressate e stagionate. Prodotto pregiato, grattugiata sulla pasta o affettata sottile con olio e limone.",
+        "prezzo_indicativo": "€80-150 al kg (intera), €10-20 per confezioni piccole"
+      },
+      {
+        "nome": "Tonno sott'olio di Carloforte",
+        "descrizione": "Tonno rosso lavorato artigianalmente e conservato sott'olio extravergine d'oliva. Ventresca sott'olio particolarmente pregiata.",
+        "prezzo_indicativo": "€8-25 a vasetto"
+      },
+      {
+        "nome": "Musciame di tonno",
+        "descrizione": "Filetto di tonno salato e stagionato all'aria, da gustare affettato finemente con olio e limone. Specialità rara e pregiata.",
+        "prezzo_indicativo": "€50-100 al kg"
+      },
+      {
+        "nome": "Dolci tabarchini",
+        "descrizione": "Dolci tipici della tradizione: giuggiu (pasta di mandorle), biscotti del marinaio, canestrelli liguri, amaretti. Si trovano nelle pasticcerie del centro."
+      },
+      {
+        "nome": "Miele di macchia mediterranea",
+        "descrizione": "Miele di rosmarino, cardo, eucalipto, prodotto sull'isola."
+      },
+      {
+        "nome": "Ceramiche e artigianato",
+        "descrizione": "Piccoli laboratori artigianali nel centro storico producono ceramiche dipinte a mano con motivi marini e tabarchini, gioielli in corallo e pietre locali."
+      }
+    ],
+    "negozi": "I negozi di prodotti tipici si concentrano nel centro storico, in via XX Settembre e nelle vie adiacenti al porto. In estate molti negozi restano aperti fino a tardi.",
+    "mercato": "Il mercato settimanale si tiene generalmente il venerdì mattina nella zona del centro, con bancarelle di prodotti alimentari, abbigliamento e artigianato. In estate possono esserci mercatini serali sul lungomare."
+  },
+  "info_mare": {
+    "temperature_acqua": [
+      {"mese": "Maggio", "temperatura": "17-19°C", "nota": "Ancora fresca, muta consigliata per snorkeling prolungato"},
+      {"mese": "Giugno", "temperatura": "20-22°C", "nota": "Piacevole per il bagno, ideale per snorkeling"},
+      {"mese": "Luglio", "temperatura": "23-25°C", "nota": "Calda e perfetta per tutte le attività acquatiche"},
+      {"mese": "Agosto", "temperatura": "24-26°C", "nota": "Temperatura massima, perfetta per bagni prolungati"},
+      {"mese": "Settembre", "temperatura": "22-24°C", "nota": "Ancora molto piacevole, meno affollato di agosto"},
+      {"mese": "Ottobre", "temperatura": "20-22°C", "nota": "Buona per il bagno nelle giornate calde, acqua più limpida"}
+    ],
+    "snorkeling_spots": [
+      {
+        "nome": "Punta Nera",
+        "descrizione": "Fondale roccioso con anfratti ricchi di vita: cernie brune, polpi, murene, saraghi, donzelle, stelle marine. Praterie di posidonia con cavallucci marini. Acqua profonda e limpida.",
+        "livello": "Intermedio (acqua profonda)",
+        "accesso": "Da riva"
+      },
+      {
+        "nome": "Le Colonne",
+        "descrizione": "Attorno ai faraglioni si trovano fondi rocciosi con gorgonie, spugne colorate, banchi di castagnole e damigelle. Ottima visibilità. Possibile vedere barracuda mediterranei.",
+        "livello": "Intermedio",
+        "accesso": "Da riva dopo sentiero"
+      },
+      {
+        "nome": "Cala Fico",
+        "descrizione": "All'interno del fiordo, pareti rocciose sommerse con anemoni, nudibranchi e piccoli pesci colorati. Acqua calma e riparata, ottima visibilità.",
+        "livello": "Facile-intermedio",
+        "accesso": "Da riva dopo sentiero"
+      },
+      {
+        "nome": "Spalmatore",
+        "descrizione": "Fondale sabbioso con praterie di posidonia, ideale per principianti. Pesci ago, seppie, stelle marine, ricci. Acqua bassa e calma nella baia.",
+        "livello": "Facile, adatto a principianti e famiglie",
+        "accesso": "Da riva, facile"
+      },
+      {
+        "nome": "Conca",
+        "descrizione": "Piscine naturali con fondale roccioso poco profondo, ideale per osservare granchi, blennidi, bavose e piccoli pesci di scoglio. Ottimo per bambini con maschera.",
+        "livello": "Facile",
+        "accesso": "Da riva"
+      },
+      {
+        "nome": "La Bobba",
+        "descrizione": "Fondale misto con sassi e rocce. Saraghi, occhiate, salpe e torpedini. Buona visibilità.",
+        "livello": "Facile-intermedio",
+        "accesso": "Da riva"
+      }
+    ]
+  },
+  "punti_panoramici": [
+    {
+      "nome": "Capo Sandalo al tramonto",
+      "tipo": "Tramonto / Panorama",
+      "descrizione": "Il punto più occidentale della Sardegna offre il tramonto più spettacolare dell'isola. Il sole si tuffa nel mare aperto davanti al faro, colorando le scogliere basaltiche. Arrivare almeno 30 minuti prima del tramonto. Portare una giacca per il maestrale.",
+      "orario_migliore": "1 ora prima del tramonto"
+    },
+    {
+      "nome": "Guardia dei Mori",
+      "tipo": "Punto panoramico / Altura",
+      "descrizione": "Il punto più alto dell'isola (211 m). Panorama a 360 gradi su tutta l'Isola di San Pietro, la costa sarda, l'Isola di Sant'Antioco e, nelle giornate limpide, la costa nordafricana. Presenza di un'antica torre di avvistamento.",
+      "orario_migliore": "Mattina presto o tardo pomeriggio per la luce migliore"
+    },
+    {
+      "nome": "Lungomare di Carloforte all'ora dorata",
+      "tipo": "Fotografia urbana / Golden hour",
+      "descrizione": "Il lungomare con le case colorate, le barche ormeggiate nel porto e la luce dorata del tardo pomeriggio crea un'atmosfera da cartolina. Il riflesso delle case colorate sull'acqua calma del porto è molto fotogenico.",
+      "orario_migliore": "1-2 ore prima del tramonto"
+    },
+    {
+      "nome": "Le Colonne dai sentieri",
+      "tipo": "Paesaggio marino / Faraglioni",
+      "descrizione": "I due faraglioni visti dall'alto del sentiero che scende verso il mare offrono una delle immagini più iconiche dell'isola. Fotografare sia dall'alto sia dal basso per prospettive diverse.",
+      "orario_migliore": "Mattina con il sole che illumina i faraglioni da est"
+    },
+    {
+      "nome": "Cala Fico dall'alto",
+      "tipo": "Fiordo / Paesaggio",
+      "descrizione": "Il fiordo naturale visto dal sentiero in cima offre un panorama mozzafiato: le pareti rocciose che scendono a picco nell'acqua verde smeraldo. Un colpo d'occhio tra i più belli del Mediterraneo.",
+      "orario_migliore": "Metà mattina quando il sole illumina il fondo del fiordo"
+    },
+    {
+      "nome": "Porto di Carloforte all'alba",
+      "tipo": "Alba / Fotografia",
+      "descrizione": "L'alba vista dal molo del porto, con le barche dei pescatori che rientrano e la luce che illumina le facciate delle case. Atmosfera autentica e tranquilla.",
+      "orario_migliore": "All'alba"
+    }
+  ],
+  "gite_giornaliere": [
+    {
+      "nome": "Isola di Sant'Antioco",
+      "come_arrivare": "Da Carloforte, traghetto per Calasetta (20 min) poi auto/bus verso Sant'Antioco (15 min).",
+      "cosa_vedere": "Basilica di Sant'Antioco Martire con catacombe paleocristiane, Museo Archeologico Ferruccio Barreca (reperti fenici e punici), Tophet fenicio-punico (santuario a cielo aperto), Forte Su Pisu con vista panoramica, Villaggio Ipogeo sotterraneo, spiagge di Maladroxia e Cala Sapone, botteghe artigiane del bisso (tessuto marino).",
+      "durata_consigliata": "Giornata intera"
+    },
+    {
+      "nome": "Calasetta",
+      "come_arrivare": "Traghetto diretto da Carloforte (20 min), sulla punta nord dell'Isola di Sant'Antioco.",
+      "cosa_vedere": "Centro storico con architettura tabarchina (fondata nel 1769 da coloni tabarchini), Torre di Calasetta (XVIII secolo), Spiaggia delle Saline (sabbia bianca e acqua turchese), Spiaggia Sottotorre, porto turistico e lungomare. Si parla anche qui il tabarchino, variante leggermente diversa da quello di Carloforte.",
+      "durata_consigliata": "Mezza giornata o giornata intera"
+    },
+    {
+      "nome": "Portoscuso",
+      "come_arrivare": "Traghetto da Carloforte a Portovesme (30-40 min), Portoscuso è a 2 km.",
+      "cosa_vedere": "Tonnara storica di Portoscuso (ancora attiva), Torre spagnola del XVI secolo, centro storico e porto.",
+      "durata_consigliata": "Mezza giornata"
+    },
+    {
+      "nome": "Buggerru e Cala Domestica",
+      "come_arrivare": "Da Portovesme in auto, circa 40 km verso nord lungo la costa panoramica SP83.",
+      "cosa_vedere": "Villaggio minerario del XIX secolo (patrimonio UNESCO, Parco Geominerario della Sardegna), Galleria Henry (galleria mineraria con ferrovia affacciata sul mare), Spiaggia di Buggerru, Cala Domestica (una delle spiagge più belle della Sardegna, con tunnel nella roccia e caletta nascosta).",
+      "durata_consigliata": "Giornata intera"
+    },
+    {
+      "nome": "Costa del Sulcis-Iglesiente",
+      "come_arrivare": "Da Portovesme in auto verso nord o verso l'entroterra.",
+      "cosa_vedere": "Iglesias (città medievale, cattedrale di Santa Chiara, Museo dell'Arte Mineraria), Grotte di Su Mannau a Fluminimaggiore (grotte carsiche spettacolari), Tempio di Antas (tempio punico-romano del Sardus Pater), Nebida con la Laveria Lamarmora affacciata sul mare, Masua e il faraglione Pan di Zucchero (il più alto d'Europa, 133 m).",
+      "durata_consigliata": "Giornata intera"
+    }
+  ],
   "eventi": [
     {
       "nome": "Girotonno",
@@ -314,22 +672,100 @@
       "nome": "Sagra del couscous (Cascà)",
       "periodo": "Aprile",
       "descrizione": "Celebrazione del piatto tipico tabarchino con degustazioni e eventi culturali."
+    },
+    {
+      "nome": "Festa della Madonna dello Schiavo",
+      "periodo": "15 novembre",
+      "descrizione": "Celebrazione religiosa molto sentita che commemora la liberazione dei carlofortini dalla schiavitù tunisina (1803). Novena di preghiere nei giorni precedenti, processione con la statua della Madonna per le vie del paese. Messa solenne nella chiesa della Novena. Pranzo comunitario con il tradizionale pilau."
+    },
+    {
+      "nome": "Processione del Venerdì Santo",
+      "periodo": "Venerdì Santo (Pasqua)",
+      "descrizione": "Processione serale per le vie del centro storico con le statue della Passione portate a spalla. Rito suggestivo con le confraternite in costume tradizionale e le lanterne che illuminano i caruggi."
+    },
+    {
+      "nome": "Festa di Sant'Antonio",
+      "periodo": "17 gennaio",
+      "descrizione": "Festa tradizionale con falò (fuochi di Sant'Antonio) nelle piazze e nei rioni del paese. Distribuzione di dolci e vino caldo."
+    },
+    {
+      "nome": "Carnevale tabarchino",
+      "periodo": "Febbraio - Marzo",
+      "descrizione": "Festeggiamenti del Carnevale con sfilate in maschera, carri allegorici nel centro del paese, dolci di Carnevale fritti. Le maschere tradizionali riprendono personaggi della comunità tabarchina."
+    },
+    {
+      "nome": "Natale a Carloforte",
+      "periodo": "Dicembre - Gennaio",
+      "descrizione": "Mercatini natalizi nel centro storico, presepi nelle chiese e nei caruggi, concerti di canti natalizi in lingua tabarchina. Atmosfera intima e suggestiva nel piccolo borgo illuminato a festa."
     }
   ],
   "info_utili": {
     "farmacia": "Farmacia nel centro storico di Carloforte, in via XX Settembre",
-    "guardia_medica": "Servizio di guardia medica attivo, telefono disponibile presso il Comune",
-    "carabinieri": "Stazione dei Carabinieri in centro a Carloforte. Per emergenze: 112",
-    "vigili_del_fuoco": "Per emergenze: 115",
-    "emergenze_mare": "Guardia Costiera: 1530",
+    "guardia_medica": "Servizio di guardia medica attivo notti, prefestivi e festivi",
+    "emergenze": {
+      "numero_unico": "112 (Numero Unico Emergenze)",
+      "vigili_del_fuoco": "115",
+      "emergenza_sanitaria": "118",
+      "guardia_costiera": "1530 (emergenze in mare)"
+    },
+    "ospedale_piu_vicino": "Ospedale Sirai di Carbonia (circa 1 ora con traghetto + auto). Per emergenze gravi è disponibile il servizio di elisoccorso (118).",
     "ufficio_postale": "Poste Italiane nel centro storico",
     "bancomat": "Sportelli ATM disponibili in paese (Banco di Sardegna, Poste Italiane)",
     "supermercati": "Diversi minimarket e supermercati nel centro di Carloforte. Il più grande è nella zona portuale.",
     "edicole": "Edicole nel centro per giornali, mappe dell'isola e guide",
-    "pro_loco": "Ufficio turistico Pro Loco di Carloforte sul lungomare, per informazioni, mappe e suggerimenti",
+    "pro_loco": "Ufficio turistico Pro Loco di Carloforte sul lungomare, per informazioni, mappe e suggerimenti. Orari variabili, generalmente aperto la mattina e nel tardo pomeriggio in estate.",
     "porto": "Porto turistico con posti barca per diportisti",
     "immersioni": "Centri diving disponibili per immersioni guidate e snorkeling organizzato",
     "escursioni_barca": "Giro dell'isola in barca con soste per il bagno, partenze dal porto di Carloforte. Durata circa 4-5 ore."
+  },
+  "contatti_utili": {
+    "traghetti": {
+      "compagnia": "Delcomar",
+      "sito_web": "www.delcomar.it",
+      "telefono": "800 650 065 (numero verde)",
+      "nota": "Prenotazione online consigliata in alta stagione, obbligatoria per veicoli a luglio-agosto"
+    },
+    "comune": {
+      "nome": "Comune di Carloforte",
+      "sito_web": "www.comune.carloforte.ci.it"
+    },
+    "capitaneria_di_porto": {
+      "dipendenza": "Capitaneria di Porto di Sant'Antioco",
+      "telefono": "0781 82261",
+      "nota": "Per informazioni su navigazione, posti barca, ordinanze marittime"
+    }
+  },
+  "accessibilita": {
+    "spiagge_accessibili": [
+      {
+        "nome": "La Caletta",
+        "descrizione": "La spiaggia più accessibile dell'isola. Dotata di passerelle in legno, servizio sedie job (sedie da mare per disabili) disponibile in stagione, bagni accessibili. Parcheggio con posti riservati. Acqua bassa e fondo sabbioso.",
+        "livello": "Alto"
+      },
+      {
+        "nome": "Girin",
+        "descrizione": "Dotata di passerelle per l'accesso al mare. Raggiungibile a piedi dal centro su percorso prevalentemente pianeggiante.",
+        "livello": "Medio"
+      },
+      {
+        "nome": "Bobba",
+        "descrizione": "Presenza di passerelle di accesso, ma il fondo di ciottoli può rendere difficoltoso l'ingresso in acqua per le carrozzine.",
+        "livello": "Medio-basso"
+      }
+    ],
+    "percorsi_accessibili": [
+      {
+        "nome": "Lungomare di Carloforte",
+        "descrizione": "Completamente pianeggiante e pavimentato, percorribile in carrozzina.",
+        "livello": "Alto"
+      },
+      {
+        "nome": "Centro storico",
+        "descrizione": "Le vie principali sono percorribili ma alcune hanno pendenze. I caruggi (vicoli) più stretti possono essere difficili per le carrozzine.",
+        "livello": "Medio"
+      }
+    ],
+    "nota_generale": "I sentieri di trekking non sono generalmente accessibili a persone con disabilità motorie (sentieri sterrati con dislivelli). Per informazioni aggiornate sull'accessibilità, contattare la Pro Loco o il Comune di Carloforte."
   },
   "curiosita": {
     "lingua": "A Carloforte si parla il tabarchino (u tabarchin), un dialetto ligure portato dai coloni di Pegli nel 1738. È ancora parlato quotidianamente, soprattutto dagli anziani. È una delle poche varianti del ligure parlate fuori dalla Liguria.",
