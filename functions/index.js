@@ -19,6 +19,10 @@ function checkRateLimit() {
         requestCount = 0;
     }
     requestCount++;
+    console.log(`[Chatbot] Richiesta ${requestCount}/${DAILY_LIMIT} oggi (${today})`);
+    if (requestCount >= DAILY_LIMIT * 0.9) {
+        console.warn(`[Chatbot] ATTENZIONE: raggiunto ${requestCount}/${DAILY_LIMIT} richieste (${Math.round(requestCount/DAILY_LIMIT*100)}%)`);
+    }
     return requestCount <= DAILY_LIMIT;
 }
 
